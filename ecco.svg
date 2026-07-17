@@ -25,11 +25,11 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="0.86666667"
-     inkscape:cx="54.807692"
-     inkscape:cy="15"
-     inkscape:window-width="1104"
-     inkscape:window-height="245"
+     inkscape:zoom="3.9426078"
+     inkscape:cx="68.736231"
+     inkscape:cy="-22.066613"
+     inkscape:window-width="1456"
+     inkscape:window-height="463"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="0"
@@ -67,11 +67,13 @@
      clip-rule="evenodd"
      d="M104.441 3.12969C104.441 1.88007 105.468 0.862793 106.726 0.862793C107.984 0.862793 109.008 1.88007 109.008 3.12969C109.008 4.38094 107.984 5.39745 106.726 5.39745C105.468 5.39745 104.441 4.38094 104.441 3.12969ZM103.896 3.12957C103.896 4.67899 105.165 5.93845 106.726 5.93845C108.286 5.93845 109.553 4.67899 109.553 3.12957C109.553 1.58168 108.286 0.320801 106.726 0.320801C105.165 0.320801 103.896 1.58168 103.896 3.12957Z"
      fill="currentColor"
-     id="path5" />
+     id="path5"
+     style="fill:#ffffff" />
   <path
      fill-rule="evenodd"
      clip-rule="evenodd"
      d="M105.82 1.7393H106.423C107.024 1.7393 107.741 1.71984 107.741 2.49187C107.741 2.82229 107.52 3.09356 107.161 3.14068V3.14735C107.322 3.15938 107.404 3.31179 107.46 3.43436L107.909 4.52117H107.284L106.945 3.65194C106.87 3.44562 106.796 3.3657 106.558 3.3657H106.377V4.52117H105.82V1.7393ZM106.377 2.9312H106.563C106.837 2.9312 107.157 2.88932 107.157 2.54109C107.157 2.204 106.842 2.1748 106.563 2.1748H106.377V2.9312Z"
      fill="currentColor"
-     id="path6" />
+     id="path6"
+     style="fill:#ffffff" />
 </svg>
